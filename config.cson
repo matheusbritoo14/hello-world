@@ -1,0 +1,23 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "atom-dark-ui"
+      "predawn-syntax"
+    ]
+    uriHandlerRegistration: "always"
+    useTreeSitterParsers: false
+  editor:
+    fontFamily: "Source Code Pro"
+    fontSize: 20
+    scrollPastEnd: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "d336ffb4-7e9b-4131-a888-da1af04b2298"
+  "linter-ui-default":
+    panelHeight: 142
+    showPanel: true
+  "python-autopep8":
+    formatOnSave: true
+  welcome:
+    showOnStartup: false
